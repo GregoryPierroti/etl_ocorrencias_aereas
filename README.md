@@ -1,0 +1,3 @@
+### Dados extraídos do governo, sobre ocorrências aeronáuticas no qual foi solicitado recomendações para evitar ou minimizar acidentes
+
+O propósito dessa extração, é desenvolver um projeto ETL, na extração e validação dos dados, usamos o pandas e o pandera, transformando o arquivo csv retirado do site de dados do governo, e o validando por um schema pandera, depois fazemos uma simples limpeza dos dados, para aplicarmos valores nulos (pandas.NA), em breve, iremos aplicar transformações e finalizar o processo.
